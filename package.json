@@ -1,0 +1,29 @@
+{
+  "name": "typescript-interval",
+  "version": "1.0.0",
+  "description": "Typescript Interval Arithmetic Library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/btardio/typescript-interval"
+  },
+  "keywords": [
+    "Interval",
+    "Arithmetic",
+    "Typescript",
+    "Interval",
+    "Arithmetic",
+    "Interval"
+  ],
+  "author": "Brandon Tardio",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
